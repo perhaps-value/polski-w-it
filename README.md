@@ -93,6 +93,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | process (_v_)        | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
+| proxy                | proksy              |                                       |
 | random               | randomowy           | losowy, przypadkowy                   |
 | reactive             |                     | reaktywny                             |
 | reflection           |                     | refleksja                             |
