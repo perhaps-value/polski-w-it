@@ -16,6 +16,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | approve              | zaapruwować         | zaakceptować                          |
 | authentication       | autentykacja        | uwierzytelnienie (!)                  |
 | authorization        |                     | autoryzacja                           |
+| backend              | bakend              |                                       |
 | bug                  |                     | błąd                                  |
 | bugfix (_n_)         |                     | poprawka                              |
 | build                | zbildować           | zbudować                              |
@@ -67,6 +68,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | latency              |                     | opóźnienie                            |
 | launch               |                     | uruchomić, wprowadzić na rynek        |
 | layout               |                     | układ (np. elementów interfejsu)      |
+| load-balancer        | lołd-balanser       |                                       |
 | lock                 | zalokować           | zablokować                            |
 | lunch                |                     | obiad, tyle że w Warszawie            |
 | meeting              |                     | spotkanie                             |
@@ -103,7 +105,9 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | response             |                     | odpowiedź                             |
 | review               | rewiułować          | przejrzeć                             |
 | rollback             |                     | wycofać, przywrócić                   |
+| round-robin          |                     | cyklicznie, w kolejności              |
 | rule (_n_)           | rulka               | reguła                                |
+| runtime              | rantajm             |                                       |
 | sample               |                     | próbka, przykład                      |
 | save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
