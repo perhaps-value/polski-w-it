@@ -97,7 +97,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | proxy                | proksy              | serwis pośredniczący                  |
 | random               | randomowy           | losowy, przypadkowy                   |
 | reactive             |                     | reaktywny                             |
-| reflection           |                     | refleksja                             |
+| reflection           |                     | (1) refleksja (2) odbicie (w grafice) |
 | release (_n_)        |                     | wydanie, wersja                       |
 | release (_v_)        | rilisować           | wydawać nową wersję                   |
 | rename               | zrinejmować         | zmienić nazwę                         |
