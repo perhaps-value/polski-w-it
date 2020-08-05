@@ -42,6 +42,8 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | device               |                     | urządzenie                            |
 | edge case            |                     | przypadek brzegowy                    |
 | error                |                     | błąd                                  |
+| estimate (_n_)       | estymata            | oszacowanie, szacunek                 |
+| estimate (_v_)       | estymować           | szacować                              |
 | event                |                     | zdarzenie, wydarzenie                 |
 | example              |                     | przykład                              |
 | exception            |                     | wyjątek                               |
@@ -98,6 +100,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | permission           |                     | uprawnienie                           |
 | plugin               |                     | wtyczka                               |
 | pointer              |                     | wskaźnik                              |
+| portable             |                     | przenośny                             |
 | process (_v_)        | procesować          | przetwarzać                           |
 | progress             |                     | postęp                                |
 | property             |                     | właściwość, opcja, cecha              |
@@ -121,6 +124,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | sample               |                     | próbka, przykład                      |
 | save                 | (za)sejwować        | zapisać                               |
 | schedule             | zaskedżulować       | zaplanować                            |
+| screen               |                     | ekran                                 |
 | screenshot           | skrin               | zrzut ekranu                          |
 | scroll (_v_)         | skrolować           | przewijać                             |
 | service              |                     | usługa                                |
